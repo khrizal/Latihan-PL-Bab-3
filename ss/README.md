@@ -1,0 +1,1 @@
+Letakkan SS dari program dengan disertai dengan nama dan nim serta kelas anda
