@@ -1,4 +1,4 @@
-# Latihan Costructor dan Instance Method
+# Latihan Overload dan Overloading Method
 
 ## Deskripsi Soal ##
 
@@ -33,6 +33,6 @@ a. diskon hanya diberikan kepada pemesan yang membeli jenis bingkai Hitam metali
 * Simpan screenshoot dari hasil run program dalam folder `ss/`
 * Edit dahulu file PERNYATAAN.md, isi sesuai biodata.
 * Lakukan commit dan push TIAP KALI melakukan pekerjaan SEBELUM deadline berakhir, jika hanya melakukan commit dan push hanya sekali dan perubahan yang sangat besar, akan memengaruhi penilaian.
-* Deadline 10 Maret 2016 jam 05.59, jika ada salah satu commit yang melampaui tanggal deadline, maka tidak diikutkan dalam penilaian, alias mendapat 0.
+* Deadline 17 Maret 2016 jam 05.59, jika ada salah satu commit yang melampaui tanggal deadline, maka tidak diikutkan dalam penilaian, alias mendapat 0.
 * Setelah menyelesaikan tugas, maka lakukan **Pull Request** untuk dilakukan penilaian. Setelah mengirim pull request, Anda tidak diperkenankan mengubah lagi isi dari repository.
 * **Tidak ada toleransi duplikasi**, jika terdeteksi maka akan mendapat nilai 0 bagi semua yang terlibat.
